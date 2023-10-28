@@ -1,7 +1,7 @@
 # Hi there! 👋🏻
 Come join me as I learn various tools and explore diverse fields
 <div align=center>
-<img alt="HTML53" src="https://img.shields.io/badge/HTML5-%23f06529?logo=html5&logoColor=%23ebebeb&labelColor=%23f06529>
+<img src="https://img.shields.io/badge/HTML5-%23f06529?logo=html5&logoColor=%23ebebeb&labelColor=%23f06529>
 <img alt="CSS33" src="https://img.shields.io/badge/CSS3-%231572B6?logo=css3&logoColor=%23ebebeb&labelColor=%231572B6>
 <img alt="JavaScript3" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=%23000000&labelColor=%23F7DF1E>
 <img alt="TypeScript3" src="https://img.shields.io/badge/TypeScript-%233178C6?logo=typescript&logoColor=%23ebebeb&labelColor=%233178C6>
