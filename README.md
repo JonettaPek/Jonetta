@@ -16,6 +16,7 @@ Come join me as I learn various tools and explore diverse fields
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939?logo=jenkins&logoColor=%23ebebeb&labelColor=%23D24939)
 <br>
 Socials:
+<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedin&logoColor=%23ebebeb&labelColor=%230A66C2)](https://www.linkedin.com/in/jonetta/)
 
 ![pig dancing with drumsticks](/assets/giphy-pig-drumsticks.gif)
