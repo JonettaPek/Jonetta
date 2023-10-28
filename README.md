@@ -1,6 +1,6 @@
 # Hi there! 👋🏻
 Come join me as I learn various tools and explore diverse fields
-
+<div align=centre>
 ![HTML5](https://img.shields.io/badge/HTML5-%23f06529?logo=html5&logoColor=%23ebebeb&labelColor=%23f06529)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?logo=css3&logoColor=%23ebebeb&labelColor=%231572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=%23000000&labelColor=%23F7DF1E)
@@ -23,3 +23,4 @@ Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335?logo=gmail&logoColor=%23ebebeb&labelColor=%23EA4335)]()
 
 ![pig dancing with drumsticks](/assets/giphy-pig-drumsticks.gif)
+</div>
