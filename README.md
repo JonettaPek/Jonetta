@@ -18,6 +18,6 @@ Come join me as I learn various tools and explore diverse fields
 Socials:
 <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedin&logoColor=%23ebebeb&labelColor=%230A66C2)](https://www.linkedin.com/in/jonetta/)
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335?logo=gmail&logoColor=%23ebebeb&labelColor=%23EA4335)](jonettapekk@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335?logo=gmail&logoColor=%23ebebeb&labelColor=%23EA4335)]()
 
 ![pig dancing with drumsticks](/assets/giphy-pig-drumsticks.gif)
