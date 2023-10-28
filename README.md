@@ -10,5 +10,8 @@ Come join me as I learn various tools and explore diverse fields
 ![Java](https://img.shields.io/badge/Java-%23F80000?logo=oracle&logoColor=%23ebebeb&labelColor=%23F80000)
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F?logo=spring&logoColor=%23ebebeb&labelColor=%236DB33F)
 ![Git](https://img.shields.io/badge/Git-%23F05032?logo=git&logoColor=%23ebebeb&labelColor=%23F05032)
+![Docker](https://img.shields.io/badge/Docker-%232496ED?logo=docker&logoColor=%23ebebeb&labelColor=%232496ED)
+![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939?logo=jenkins&logoColor=%23ebebeb&labelColor=%23D24939)
+
 
 ![pig dancing with drumsticks](/assets/giphy-pig-drumsticks.gif)
