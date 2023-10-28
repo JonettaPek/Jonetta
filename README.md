@@ -6,12 +6,13 @@ Come join me as I learn various tools and explore diverse fields
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=%23000000&labelColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?logo=typescript&logoColor=%23ebebeb&labelColor=%233178C6)
 ![React](https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=%23000000&labelColor=%2361DAFB)
+&lt;br&gt;
 ![Python3](https://img.shields.io/badge/Python3-%233776AB?logo=python&logoColor=%23ebebeb&labelColor=%233776AB)
 ![Java](https://img.shields.io/badge/Java-%23F80000?logo=oracle&logoColor=%23ebebeb&labelColor=%23F80000)
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F?logo=spring&logoColor=%23ebebeb&labelColor=%236DB33F)
+&lt;br&gt;
 ![Git](https://img.shields.io/badge/Git-%23F05032?logo=git&logoColor=%23ebebeb&labelColor=%23F05032)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED?logo=docker&logoColor=%23ebebeb&labelColor=%232496ED)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939?logo=jenkins&logoColor=%23ebebeb&labelColor=%23D24939)
-
-
+&lt;br&gt;
 ![pig dancing with drumsticks](/assets/giphy-pig-drumsticks.gif)
