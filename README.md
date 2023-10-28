@@ -1,5 +1,6 @@
 <div align=center>
   <h2>Hi there!👋🏻</h2>
+  <p>I'm Jonetta</p>
   <p>Come join me as I learn various tools and explore diverse fields</p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23f06529?logo=html5&logoColor=%23ebebeb&labelColor=%23f06529">
   <img alt="CSS33" src="https://img.shields.io/badge/CSS3-%231572B6?logo=css3&logoColor=%23ebebeb&labelColor=%231572B6">
@@ -18,7 +19,7 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED?logo=docker&logoColor=%23ebebeb&labelColor=%232496ED">
   <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%23D24939?logo=jenkins&logoColor=%23ebebeb&labelColor=%23D24939">
   <br>
-  Socials:
+  <p><strong>Socials:</strong></p>
   <br>
   <a href="https://www.linkedin.com/in/jonetta/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedin&logoColor=%23ebebeb&labelColor=%230A66C2"></a>
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23EA4335?logo=gmail&logoColor=%23ebebeb&labelColor=%23EA4335">
