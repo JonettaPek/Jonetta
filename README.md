@@ -1,6 +1,5 @@
 <div align=center>
-  <h2>Hi there!👋🏻</h2>
-  <p>I'm Jonetta</p>
+  <h2>Hi there</h2>
   <p>Come join me as I learn various tools and explore diverse fields</p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23f06529?logo=html5&logoColor=%23ebebeb&labelColor=%23f06529">
   <img alt="CSS33" src="https://img.shields.io/badge/CSS3-%231572B6?logo=css3&logoColor=%23ebebeb&labelColor=%231572B6">
