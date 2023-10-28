@@ -1,8 +1,8 @@
-# Hi there! 👋🏻
-Come join me as I learn various tools and explore diverse fields
 <div align=center>
+  <h2>Hi there!👋🏻</h2>
+  <p>Come join me as I learn various tools and explore diverse fields</p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23f06529?logo=html5&logoColor=%23ebebeb&labelColor=%23f06529">
-  <img alt="CSS33" src="https://img.shields.io/badge/CSS3-%231572B6?logo=css3&logoColor=%23ebebeb&labelColor=%231572B6>
+  <img alt="CSS33" src="https://img.shields.io/badge/CSS3-%231572B6?logo=css3&logoColor=%23ebebeb&labelColor=%231572B6">
   <img alt="JavaScript3" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=%23000000&labelColor=%23F7DF1E">
   <img alt="TypeScript3" src="https://img.shields.io/badge/TypeScript-%233178C6?logo=typescript&logoColor=%23ebebeb&labelColor=%233178C6">
   <img alt="React3" src="https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=%23000000&labelColor=%2361DAFB">
@@ -22,6 +22,6 @@ Come join me as I learn various tools and explore diverse fields
   <br>
   <a href="https://www.linkedin.com/in/jonetta/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedin&logoColor=%23ebebeb&labelColor=%230A66C2"></a>
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23EA4335?logo=gmail&logoColor=%23ebebeb&labelColor=%23EA4335">
-  
+  <br>
   <img alt="pig dancing with drumsticks" src="/assets/giphy-pig-drumsticks.gif">
 </div>
