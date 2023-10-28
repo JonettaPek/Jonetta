@@ -19,6 +19,7 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED?logo=docker&logoColor=%23ebebeb&labelColor=%232496ED">
   <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%23D24939?logo=jenkins&logoColor=%23ebebeb&labelColor=%23D24939">
   <br>
+  <br>
   <p><strong>Socials:</strong></p>
   <a href="https://www.linkedin.com/in/jonetta/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedin&logoColor=%23ebebeb&labelColor=%230A66C2"></a>
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23EA4335?logo=gmail&logoColor=%23ebebeb&labelColor=%23EA4335">
