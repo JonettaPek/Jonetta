@@ -18,13 +18,19 @@
   <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%23D24939?logo=jenkins&logoColor=%23ebebeb&labelColor=%23D24939&style=for-the-badge">
   <br>
   <br>
+  <!--
   <p><strong>Socials:</strong></p>
   <a href="https://www.linkedin.com/in/jonetta/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedin&logoColor=%23ebebeb&labelColor=%230A66C2&style=for-the-badge"></a>
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23EA4335?logo=gmail&logoColor=%23ebebeb&labelColor=%23EA4335&style=for-the-badge">
   <br>
   <br>
+  -->
   <p><strong>GitHub Profile Stats:</strong></p>
   <img alt="GitHub Profile Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonettaPek&layout=compact">
+  <p><strong>Leetcode Profile Stats:</strong></p>
+  <img alt="Leetcode Profile Statistics" src="https://leetcard.jacoblin.cool/JonettaPek?theme=light&font=Mada&ext=heatmap">
   <br>
+  <!--
   <img alt="rainy day with coffee and cat" src="/assets/giphy-rain-cat.gif">
+  -->
 </div>
